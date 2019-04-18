@@ -9,3 +9,9 @@ def fib(n):
 N = input("nth fibonacci number: ")
 
 print "answer:", fib(N)
+
+# This is another try,
+# because
+# I am handsome, hahahahaha
+
+# (I think I can write diary here, it's fun :)
